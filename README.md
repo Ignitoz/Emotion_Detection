@@ -1,6 +1,6 @@
 # Emotion_Detection
 
-Designed a Deep Learing Model that can detect Human Emotion
+Designed a Deep Learing Model that can detect Human Emotion using CNN and OpenCV
 
 ![image](https://github.com/Ignitoz/Emotion_Detection/assets/87456729/78fa584f-2ce3-49ca-9e73-90f914ec30e3)
 
